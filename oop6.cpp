@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace 
 // herichal inrehtimcae 1 parnet and two chidls
 
 class hero
